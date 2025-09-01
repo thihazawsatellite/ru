@@ -1,228 +1,214 @@
 #EXTINF:-1 group-title="ဖရီးကြည့်ပါ", Telegram-Group
 https://t.me/thzservice
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/67b5b20cb871eb0a1d91bedb8be826ff.png" group-title="India ➾ Sports",IN: Star Sports 1
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/3630
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/8d83db120afcaa7b2d4ef5422fb3ace5.png" group-title="India ➾ Sports",IN: Star Sports 2
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/3631
-#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cb6f86b5373ecc7840bd3b57967f37bc.png" group-title="India ➾ Sports",IN: Star Sports 3
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/62584
-#EXTINF:-1 tvg-id="" tvg-name="IN: Willow" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b8b56a633aad6900e1565ed87811f342.png" group-title="India ➾ Sports",IN: Willow
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/165776
-#EXTINF:-1 tvg-id="" tvg-name="US: Willow" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3a20afd154f94482c2f456803bed516a.png" group-title="USA ➾ Sports",US: Willow
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/2372
-#EXTINF:-1 tvg-id="" tvg-name="US: Willow Xtra" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/2a9ac0a71cf1b13842fb8ac73f0f7bad.png" group-title="USA ➾ Sports",US: Willow Xtra
-http://iptvtree.net:8080/F15554/Tve5ZWQEd485/296763
-
-#EXTINF:-1 group-title="Спорт", Астрахань Спорт
+#EXTINF:-1 group-title="Russia ➾ Sports", Астрахань Спорт
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
+#EXTINF:-1 group-title="Russia ➾ Sports", Беларусь 5 Интернет
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Бокс ТВ
+#EXTINF:-1 group-title="Russia ➾ Sports", Бокс ТВ
 http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Russia ➾ Sports" tvg-id="match-tv", Матч! (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="match-tv", Матч! +7 (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Russia ➾ Sports" tvg-id="match-tv", Матч! +7 (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
-#EXTINF:-1 group-title="Спорт", Матч!
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! HD
 http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Арена
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Арена
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
-#EXTINF:-1 group-title="Спорт", Матч! Арена HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Арена HD
 http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Боец 
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Боец 
 http://77.235.1.19:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Игра 
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Игра 
 http://31.210.208.171:8080/match_igra/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт", Матч! Игра HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Игра HD
 http://178.217.72.66:8080/Match_Igra_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Планета
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Планета
 http://158.101.222.193:88/georgia_play.php?id=matchplaneta
-#EXTINF:-1 group-title="Спорт", Матч! Премьер
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Премьер
 http://178.219.160.169:8880/139/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Премьер HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Премьер HD
 http://178.219.160.169:8880/193/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Страна
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Страна
 http://77.235.1.19:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Футбол 1
 http://77.235.1.19:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Футбол 1 HD
 http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Футбол 2
 http://77.235.1.19:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 2 HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Футбол 2 HD
 http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Футбол 3 
 http://185.57.68.33/110/mpegts
-#EXTINF:-1 group-title="Спорт", Матч! Футбол 3 HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Матч! Футбол 3 HD
 http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт", Мир баскетбола 
+#EXTINF:-1 group-title="Russia ➾ Sports", Мир баскетбола 
 http://77.235.1.19:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="Спорт", Старт
+#EXTINF:-1 group-title="Russia ➾ Sports", Старт
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
-#EXTINF:-1 group-title="Спорт", Старт HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Старт HD
 http://str6.oxtve.live:8080/RU_START_HD/mpegts
-#EXTINF:-1 group-title="Спорт", Старт Триумф
+#EXTINF:-1 group-title="Russia ➾ Sports", Старт Триумф
 http://77.235.1.19:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="Спорт", Старт Триумф HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Старт Триумф HD
 http://31.133.36.244:8000/109
-#EXTINF:-1 group-title="Спорт", Футбол HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Футбол HD
 http://str6.oxtve.live:8080/futbolhd/mpegts
-#EXTINF:-1 group-title="Спорт", Arena Sport 1
+#EXTINF:-1 group-title="Russia ➾ Sports", Arena Sport 1
 http://78.130.250.2:8023/play/a02o/index.m3u8
-#EXTINF:-1 group-title="Спорт", Bein Sports HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Bein Sports HD
 http://fl3.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="Спорт", Bein Sports Xtra 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Bein Sports Xtra 🛡️
 https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Спорт", Canal+ Sport
+#EXTINF:-1 group-title="Russia ➾ Sports", Canal+ Sport
 http://78.130.250.2:8023/play/a02v/index.m3u8
-#EXTINF:-1 group-title="Спорт", Canal+ Sport 2
+#EXTINF:-1 group-title="Russia ➾ Sports", Canal+ Sport 2
 http://78.130.250.2:8023/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Спорт", Diema Sport
+#EXTINF:-1 group-title="Russia ➾ Sports", Diema Sport
 http://87.118.142.91:6064/play/a06n
-#EXTINF:-1 group-title="Спорт", Diema Sport 2
+#EXTINF:-1 group-title="Russia ➾ Sports", Diema Sport 2
 http://87.118.142.91:6064/play/a071
-#EXTINF:-1 group-title="Спорт", Diema Sport 3
+#EXTINF:-1 group-title="Russia ➾ Sports", Diema Sport 3
 http://87.118.142.91:6064/play/a06y
-#EXTINF:-1 group-title="Спорт", Eleven Sports 1 4k 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Eleven Sports 1 4k 🛡️
 https://7pal.short.gy/11sports1
-#EXTINF:-1 group-title="Спорт", Eleven Sports 1 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Eleven Sports 1 🛡️
 http://145.239.19.144:18088/271/mpegts
-#EXTINF:-1 group-title="Спорт", Eleven Sports 2 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Eleven Sports 2 🛡️
 http://145.239.19.144:18088/270/mpegts
-#EXTINF:-1 group-title="Спорт", Eleven Sports 3 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Eleven Sports 3 🛡️
 http://145.239.19.144:18088/269/mpegts
-#EXTINF:-1 group-title="Спорт", Eleven Sports 4 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Eleven Sports 4 🛡️
 http://145.239.19.144:18088/272/mpegts
-#EXTINF:-1 group-title="Спорт", Eurosport 1
+#EXTINF:-1 group-title="Russia ➾ Sports", Eurosport 1
 http://178.217.72.66:8080/Eurosport_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт", Eurosport 1 HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Eurosport 1 HD
 http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 group-title="Спорт", Eurosport 2 HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Eurosport 2 HD
 http://178.217.72.66:8080/Eurosport_2_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт", Eurosport 4k 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Eurosport 4k 🛡️
 https://7pal.short.gy/eusport4k
-#EXTINF:-1 group-title="Спорт", Extreme Sports
+#EXTINF:-1 group-title="Russia ➾ Sports", Extreme Sports
 http://31.133.36.244:8000/115
-#EXTINF:-1 group-title="Спорт", Extreme Sports HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Extreme Sports HD
 http://vod.stb.tvime.ru/Extreme_Sports/video.m3u8
-#EXTINF:-1 group-title="Спорт", Fast&FunBox
+#EXTINF:-1 group-title="Russia ➾ Sports", Fast&FunBox
 http://77.235.1.19:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="Спорт", FightBox
+#EXTINF:-1 group-title="Russia ➾ Sports", FightBox
 http://77.235.1.19:8000/play/a080/index.m3u8
-#EXTINF:-1 group-title="Спорт", FightBox HD
+#EXTINF:-1 group-title="Russia ➾ Sports", FightBox HD
 http://85.117.61.97:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="Спорт", Fox Sports 501 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Fox Sports 501 🛡️
 https://7pal.short.gy/fox501au
-#EXTINF:-1 group-title="Спорт", Fox Sports 502 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Fox Sports 502 🛡️
 https://7pal.short.gy/fox502au
-#EXTINF:-1 group-title="Спорт", Fox Sports 503 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Fox Sports 503 🛡️
 https://7pal.short.gy/fox503au
-#EXTINF:-1 group-title="Спорт", Fox Sports 504 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Fox Sports 504 🛡️
 https://7pal.short.gy/fox504au
-#EXTINF:-1 group-title="Спорт", Fox Sports 505 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Fox Sports 505 🛡️
 https://7pal.short.gy/fox505au
-#EXTINF:-1 group-title="Спорт", Fox Sports 506 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Fox Sports 506 🛡️
 https://7pal.short.gy/fox506au
-#EXTINF:-1 group-title="Спорт", Fox Sports 507 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Fox Sports 507 🛡️
 https://7pal.short.gy/fox507au
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL 
+#EXTINF:-1 group-title="Russia ➾ Sports" tvg-id="kxl", KHL 
 http://178.124.152.238:8088/khl
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime
+#EXTINF:-1 group-title="Russia ➾ Sports" tvg-id="kxl-hd", KHL Prime
 http://194.143.148.28:8080/KHL_HD/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD
+#EXTINF:-1 group-title="Russia ➾ Sports" tvg-id="kxl-hd", KHL Prime HD
 http://77.235.1.19:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="m1global", MMA-TV
+#EXTINF:-1 group-title="Russia ➾ Sports" tvg-id="m1global", MMA-TV
 http://31.148.48.15/M1_Global/index.m3u8
-#EXTINF:-1 group-title="Спорт", Premier Sport 1 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Premier Sport 1 🛡️
 https://7pal.short.gy/prsport1
-#EXTINF:-1 group-title="Спорт", Premier Sport 2 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Premier Sport 2 🛡️
 https://7pal.short.gy/prsport2
-#EXTINF:-1 group-title="Спорт", Q Sport Kyrgyzstan HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Q Sport Kyrgyzstan HD
 http://95.85.109.219:7000/play/a05u
-#EXTINF:-1 group-title="Спорт", Q Sport Arena HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Q Sport Arena HD
 http://158.160.149.81:8080/7080/index.m3u8
-#EXTINF:-1 group-title="Спорт", Russian Extreme
+#EXTINF:-1 group-title="Russia ➾ Sports", Russian Extreme
 http://195.26.83.96:7029/play/a008
-#EXTINF:-1 group-title="Спорт", Russian Extreme HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Russian Extreme HD
 http://str6.oxtve.live:8080/russkiyekstrimhd/mpegts
-#EXTINF:-1 group-title="Спорт", Russian Extreme UHD
+#EXTINF:-1 group-title="Russia ➾ Sports", Russian Extreme UHD
 http://str6.oxtve.live:8080/Russkiyekstrim4k/mpegts
-#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Спорт" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Russia ➾ Sports" tvg-id="russian-extreme-uhd", Russian Extreme UHD (Архив)
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports 1
+#EXTINF:-1 group-title="Russia ➾ Sports", Setanta Sports 1
 http://158.160.149.81:8080/4536/index.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Setanta Sports 1 HD
 http://95.85.109.219:7000/play/a067
-#EXTINF:-1 group-title="Спорт", Setanta Sports 2
+#EXTINF:-1 group-title="Russia ➾ Sports", Setanta Sports 2
 http://vod2.stb.tvime.ru/Setanta_Sports_2_HD/video.m3u8
-#EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Setanta Sports 2 HD
 http://95.85.109.219:7000/play/a068
-#EXTINF:-1 group-title="Спорт", Setanta Sports+ HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Setanta Sports+ HD
 http://158.160.149.81:8080/8829/index.m3u8
-#EXTINF:-1 group-title="Спорт", Sky High Fight HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky High Fight HD
 http://str6.oxtve.live:8080/SKYHIGHFIGHT/mpegts
-#EXTINF:-1 group-title="Спорт", Sky Sport 1 HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport 1 HD
 http://str6.oxtve.live:8080/skysport1hd/mpegts
-#EXTINF:-1 group-title="Спорт", Sky Sport 2 HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport 2 HD
 http://str6.oxtve.live:8080/skysport2hd/mpegts
-#EXTINF:-1 group-title="Спорт", Sky Sport 1 NZ 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport 1 NZ 🛡️
 https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 group-title="Спорт", Sky Sport 2 NZ 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport 2 NZ 🛡️
 https://7pal.short.gy/skyspt2nz
-#EXTINF:-1 group-title="Спорт", Sky Sport 3 NZ 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport 3 NZ 🛡️
 https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 group-title="Спорт", Sky Sport 4 NZ 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport 4 NZ 🛡️
 https://7pal.short.gy/skyspt4nz
-#EXTINF:-1 group-title="Спорт", Sky Sport Austria 1 HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport Austria 1 HD
 http://str6.oxtve.live:8080/skysportaustriahd/mpegts
-#EXTINF:-1 group-title="Спорт", Sky Sport F1
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport F1
 http://str6.oxtve.live:8080/skysportf1/mpegts
-#EXTINF:-1 group-title="Спорт", Sky Sport Golf 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport Golf 🛡️
 https://7pal.short.gy/ssportsg
-#EXTINF:-1 group-title="Спорт", Sky Sport F1
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport F1
 http://str6.oxtve.live:8080/skysportf1/mpegts
-#EXTINF:-1 group-title="Спорт", Sky Sport F1 UHD 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport F1 UHD 🛡️
 https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 group-title="Спорт", Sky Sport Football 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport Football 🛡️
 https://7pal.short.gy/ssportsfb
-#EXTINF:-1 group-title="Спорт", Sky Sport Main Event 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport Main Event 🛡️
 https://7pal.short.gy/skspmaine
-#EXTINF:-1 group-title="Спорт", Sky Sport Mix HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport Mix HD
 http://str6.oxtve.live:8080/DE_Sky_Sport_Mix/mpegts
-#EXTINF:-1 group-title="Спорт", Sky Sport News 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport News 🛡️
 https://7pal.short.gy/ssportsnw
-#EXTINF:-1 group-title="Спорт", Sky Sport Premier League HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport Premier League HD
 http://str6.oxtve.live:8080/DE_Sky_Sport_Premier_League/mpegts
-#EXTINF:-1 group-title="Спорт", Sky Sport Tennis HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport Tennis HD
 http://str6.oxtve.live:8080/DE_Sky_Sport_Tennis/mpegts
-#EXTINF:-1 group-title="Спорт", Sky Sport Top Event HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Sky Sport Top Event HD
 http://str6.oxtve.live:8080/DE_Sky_Sport_Top_Event/mpegts
-#EXTINF:-1 group-title="Спорт", Polsat Sport 1
+#EXTINF:-1 group-title="Russia ➾ Sports", Polsat Sport 1
 http://185.236.229.62:9981/play/a07n
-#EXTINF:-1 group-title="Спорт", Polsat Sport 2
+#EXTINF:-1 group-title="Russia ➾ Sports", Polsat Sport 2
 http://185.236.229.62:9981/play/a07q
-#EXTINF:-1 group-title="Спорт", Polsat Sport 3
+#EXTINF:-1 group-title="Russia ➾ Sports", Polsat Sport 3
 http://185.236.229.62:9981/play/a06m
-#EXTINF:-1 group-title="Спорт", Polsat Sport Fight
+#EXTINF:-1 group-title="Russia ➾ Sports", Polsat Sport Fight
 http://185.236.229.62:9981/play/a06l
-#EXTINF:-1 group-title="Спорт", TNT Sport 1 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", TNT Sport 1 🛡️
 https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="Спорт", TNT Sport 2 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", TNT Sport 2 🛡️
 https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="Спорт", TNT Sport 3 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", TNT Sport 3 🛡️
 https://7pal.short.gy/tntspts3
-#EXTINF:-1 group-title="Спорт", TNT Sport 4 🛡️
+#EXTINF:-1 group-title="Russia ➾ Sports", TNT Sport 4 🛡️
 https://7pal.short.gy/tntspts4
-#EXTINF:-1 group-title="Спорт", Udar HD
+#EXTINF:-1 group-title="Russia ➾ Sports", Udar HD
 http://95.85.109.219:7000/play/a066
-#EXTINF:-1 group-title="Спорт", Viju+ Sport
+#EXTINF:-1 group-title="Russia ➾ Sports", Viju+ Sport
 http://178.134.1.158:8081/viasatsport/index.m3u8
 
 #EXTM3U
@@ -2015,6 +2001,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TRTWorldHD/mpd/TRTWorldHD.mpd
 
 
 #EXTINF:-1 group-title="News" tvg-id="CNA.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg",CNA
+
 
 
 
